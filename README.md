@@ -1,4 +1,3 @@
-
 # Wearable-Based Glucose Estimation: Literature Review & Methodological Benchmark
 
 ## Research Goal
@@ -84,17 +83,33 @@ Inspect when necessary:
 
 ---
 
+
 ## 3. Paper Selection
 
 ### Tier 1: Core Papers
 
-These are the first papers to investigate deeply.
+- [ ] **Paper 1:** [Development of Non-Invasive Continuous Glucose Prediction Models Using Multi-Modal Wearable Sensors in Free-Living Conditions (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12115526/)
+- [ ] **Paper 2:** [PhysioCGM Multimodal Physiological Dataset (2025)](https://www.nature.com/articles/s41597-025-06090-6)
+- [ ] **Paper 3:** [Noninvasive Interstitial Glucose Estimation Using Wearables and Machine Learning (2026)](https://mhealth.jmir.org/2026/1/e91724)
+- [ ] **Paper 4:** [Enhanced Blood Glucose Levels Prediction With a Smartwatch (2024)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307136)
+- [ ] **Paper 5:** [Non-invasive Blood Glucose Monitoring Using PPG Signals and Deep Learning/TinyML (2025)](https://www.nature.com/articles/s41598-024-84265-8)
 
-- [ ] Paper 1: Development of Non-Invasive Continuous Glucose Prediction Models Using Multi-Modal Wearable Sensors in Free-Living Conditions (2025)
-- [ ] Paper 2: PhysioCGM Multimodal Physiological Dataset (2025)
-- [ ] Paper 3: Noninvasive Interstitial Glucose Estimation Using Wearables and Machine Learning (2026)
-- [ ] Paper 4: Enhanced Blood Glucose Levels Prediction With a Smartwatch (2024)
-- [ ] Paper 5: Non-invasive Blood Glucose Monitoring Using PPG Signals and Deep Learning/TinyML (2025)
+### Tier 2: Methodological Comparison
+
+- [ ] **Paper 6:** [Deep Sparse Capsule Network for Non-Invasive Blood Glucose Estimation Using PPG (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11945921/)
+- [ ] **Paper 7:** [Differential Absorbance and PPG-Based Glucose Measurement Using Spatiotemporal Multimodal LSTM (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12431362/)
+- [ ] **Paper 8:** [EMD-Based Noninvasive Glucose Estimation Using PPG (2024)](https://www.mdpi.com/2076-3417/14/4/1406)
+- [ ] **Paper 9:** [Wearable Sensor System and Data Analytic Framework for Glucose Prediction (2024)](https://www.nature.com/articles/s41598-024-59744-7)
+- [ ] **Paper 10:** [Elevated Glucose Assessment Using Wearable PPG and Machine Learning (2024)](https://pubmed.ncbi.nlm.nih.gov/38875549/)
+
+### Tier 3: Additional Literature
+
+- [ ] **Paper 11:** [Green Light PPG-Based Non-Invasive Glucose Estimation (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953498/)
+- [ ] **Paper 12:** [Wearable Finger PPG-Based Blood Glucose Monitor (2025)](https://pubmed.ncbi.nlm.nih.gov/40685463/)
+- [ ] **Paper 13:** [Personalized Wearable ML Models for Hypoglycemia Detection (2025)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325956)
+- [ ] **Paper 14:** [Glucose Estimation Using Non-Invasive Wearable Device Data (2023)](https://pubmed.ncbi.nlm.nih.gov/37387018/)
+- [ ] **Paper 15:** [Systematic Review of AI-Based Wearable Glucose Prediction (2023)](https://www.jmir.org/2023/1/e40259)
+
 
 ### Tier 2: Methodological Comparison
 
